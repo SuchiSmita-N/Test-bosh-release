@@ -28,3 +28,9 @@ instance_groups:
     templates:
     - name: hello-world
       release: hello-world
+
+#bosh -d TestSuchi-deployment deploy manifest.yml
+
+#bosh -d TestSuchi-deployment errands
+
+#bosh -d TestSuchi-deployment run-errand hello-world
