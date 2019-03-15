@@ -1,0 +1,9 @@
+name: hello-world
+version: 0+dev.2
+commit_hash: f617b58
+uncommitted_changes: false
+jobs:
+- name: hello-world
+  version: 16b4e56e6096f8d57261bf687488872eddc26540
+  fingerprint: 16b4e56e6096f8d57261bf687488872eddc26540
+  sha1: 69ba02488e0067baf27205499bf53768fc2b1259

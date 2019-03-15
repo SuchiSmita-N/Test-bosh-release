@@ -1,7 +1,7 @@
 ---
 name: hello-world
 
-templates: {}
+templates: run.sh: bin/run
 
 packages: []
 
