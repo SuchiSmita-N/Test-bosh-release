@@ -1,3 +1,6 @@
+
+#To deploy: bosh -e vbox -n -d simple-http-server deploy manifest/manifest.yml
+#curl Ip of instance:8080
 name: simple-http-server
 
 releases:
